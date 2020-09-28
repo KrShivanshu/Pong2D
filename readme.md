@@ -22,8 +22,8 @@ Pong2D is the first game that I made on Unity3D as most you of made first time o
 
 ### Node Symbols
 
-![Wall](Assets\Sprites\Player.png) - Player \
-![Ball](Assets\Sprites\Ball.png) Ball \
+![Wall](Assets/Sprites/Player.png) - Player \
+![Ball](Assets/Sprites/Ball.png) Ball 
  
 
 ### GamePlay Screen
